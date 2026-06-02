@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 20px auto;
+}
+
+header{
+    background-color: rgb(29, 5, 28);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+nav{
+    text-align: center;
+    margin: 15px 0;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: rgb(145, 30, 211);
+    color: rgb(201, 95, 169);
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(78, 17, 63);
+}
+
+.hero{
+    background-color: rgb(156, 29, 118);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.card{
+    background-color: rgb(156, 29, 118);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+h2,h3{
+    color: aqua;
+}
+
+.foto{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    display:block;
+    margin:20px auto;
+    object-fit:cover;
+}
